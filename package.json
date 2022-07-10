@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"scripts": {
-		"start": "webpack serve"
+		"start": "npm rebuild node-sass && webpack serve"
 	},
 	"devDependencies": {
 		"css-loader": "6.7.1",
